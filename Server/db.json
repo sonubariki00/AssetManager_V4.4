@@ -1,0 +1,170 @@
+{
+  "users": [
+    {
+      "id": "E001",
+      "name": "Alpha Prasad",
+      "username": "e",
+      "password": "e",
+      "role": "employee"
+    },
+    {
+      "id": "A001",
+      "name": "Beta Kumar",
+      "username": "a",
+      "password": "a",
+      "role": "admin"
+    }
+  ],
+  "assets": [
+    {
+      "id": "AS001",
+      "name": "Laptop",
+      "count": "20"
+    },
+    {
+      "id": "AS002",
+      "name": "Projector",
+      "count": "30"
+    }
+  ],
+  "requests": [
+    {
+      "id": "R001",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "release",
+      "request_date": "2024-06-23T10:00:00Z"
+    },
+    {
+      "id": "R002",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "release",
+      "request_date": "2024-06-23T19:36:34.403249"
+    },
+    {
+      "id": "R003",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "release",
+      "request_date": "2024-06-23T19:38:58.587677"
+    },
+    {
+      "id": "R004",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "release",
+      "request_date": "2024-06-23T19:41:07.522668"
+    },
+    {
+      "id": "R005",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "release",
+      "request_date": "2024-06-23T20:34:02.522233"
+    },
+    {
+      "id": "R006",
+      "employee_id": "E001",
+      "asset_id": "As001",
+      "status": "pending",
+      "type": "request",
+      "request_date": "2024-06-23T21:01:38.865702"
+    },
+    {
+      "id": "R007",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "release",
+      "request_date": "2024-06-23T21:02:08.561369"
+    },
+    {
+      "id": "R008",
+      "employee_id": "E001",
+      "asset_id": "as001",
+      "status": "pending",
+      "type": "request",
+      "request_date": "2024-06-23T22:43:16.324612"
+    },
+    {
+      "id": "R009",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "release",
+      "request_date": "2024-06-23T22:43:22.131523"
+    },
+    {
+      "id": "R010",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "request",
+      "request_date": "2024-06-24T00:09:27.121445"
+    },
+    {
+      "id": "R011",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "release",
+      "request_date": "2024-06-24T00:09:37.956377"
+    },
+    {
+      "id": "R012",
+      "employee_id": "E001",
+      "asset_id": "As001",
+      "status": "pending",
+      "type": "request",
+      "request_date": "2024-06-24T15:09:30.102612"
+    },
+    {
+      "id": "R013",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "request",
+      "request_date": "2024-06-24T15:27:28.661393"
+    },
+    {
+      "id": "R014",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "type": "release",
+      "request_date": "2024-06-24T15:27:43.782264"
+    }
+  ],
+  "tagged": [
+    {
+      "asset_id": "AS001",
+      "employee_assigned": "E001",
+      "Date": "2024-06-23T10:00:00Z"
+    },
+    {
+      "asset_id": "AS002",
+      "employee_assigned": "E002",
+      "Date": "2024-06-23T10:00:00Z"
+    }
+  ],
+  "logs": [
+    {
+      "id": "L001",
+      "type": "frontend",
+      "message": "User E001 logged in",
+      "timestamp": "2024-06-23T10:05:00Z"
+    },
+    {
+      "id": "L002",
+      "type": "backend",
+      "message": "Asset AS002 assigned to E001",
+      "timestamp": "2024-06-23T11:30:00Z"
+    }
+  ]
+}

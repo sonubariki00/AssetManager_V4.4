@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "L001",
+    "timestamp": "2024-06-23T12:41:04.235809",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Tagged assets viewed by None",
+    "user_id": null
+  },
+  {
+    "id": "L002",
+    "timestamp": "2024-06-23T13:18:33.205374",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L003",
+    "timestamp": "2024-06-23T13:20:40.937630",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L004",
+    "timestamp": "2024-06-23T13:20:52.500978",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L005",
+    "timestamp": "2024-06-23T13:22:23.764156",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L006",
+    "timestamp": "2024-06-23T13:24:17.289765",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L007",
+    "timestamp": "2024-06-23T13:27:12.839166",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L008",
+    "timestamp": "2024-06-23T13:29:14.586118",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L009",
+    "timestamp": "2024-06-23T13:30:51.682966",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L010",
+    "timestamp": "2024-06-23T13:43:12.901950",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L011",
+    "timestamp": "2024-06-23T13:44:24.722406",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L012",
+    "timestamp": "2024-06-23T13:45:36.733356",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L013",
+    "timestamp": "2024-06-23T13:46:52.988597",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L014",
+    "timestamp": "2024-06-23T13:48:15.821747",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L015",
+    "timestamp": "2024-06-23T13:59:57.989206",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L016",
+    "timestamp": "2024-06-23T14:02:58.223925",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: admin",
+    "user_id": null
+  },
+  {
+    "id": "L017",
+    "timestamp": "2024-06-23T14:05:52.870248",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L018",
+    "timestamp": "2024-06-23T14:20:56.730635",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L019",
+    "timestamp": "2024-06-23T14:51:19.623819",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L020",
+    "timestamp": "2024-06-23T16:18:25.526125",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L021",
+    "timestamp": "2024-06-23T16:22:00.274198",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L022",
+    "timestamp": "2024-06-23T16:25:38.850209",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L023",
+    "timestamp": "2024-06-23T16:27:29.303807",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: employee",
+    "user_id": null
+  },
+  {
+    "id": "L024",
+    "timestamp": "2024-06-23T16:27:42.920072",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L025",
+    "timestamp": "2024-06-23T16:27:49.329361",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L026",
+    "timestamp": "2024-06-23T16:29:22.300612",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L027",
+    "timestamp": "2024-06-23T16:29:35.528003",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L028",
+    "timestamp": "2024-06-23T16:30:51.984577",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L029",
+    "timestamp": "2024-06-23T16:32:50.813800",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L030",
+    "timestamp": "2024-06-23T16:33:13.439545",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L031",
+    "timestamp": "2024-06-23T16:34:30.502318",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L032",
+    "timestamp": "2024-06-23T16:38:26.319207",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L033",
+    "timestamp": "2024-06-23T16:39:15.473547",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L034",
+    "timestamp": "2024-06-23T16:41:21.549827",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L035",
+    "timestamp": "2024-06-23T16:47:34.799959",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L036",
+    "timestamp": "2024-06-23T16:49:03.758465",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L037",
+    "timestamp": "2024-06-23T16:51:07.855552",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L038",
+    "timestamp": "2024-06-23T16:53:28.916745",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L039",
+    "timestamp": "2024-06-23T16:57:47.552395",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L040",
+    "timestamp": "2024-06-23T17:01:22.542340",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L041",
+    "timestamp": "2024-06-23T17:04:10.453456",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L042",
+    "timestamp": "2024-06-23T17:06:52.580222",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L043",
+    "timestamp": "2024-06-23T17:10:22.093438",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L044",
+    "timestamp": "2024-06-23T17:12:33.695085",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L045",
+    "timestamp": "2024-06-23T17:18:46.192652",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L046",
+    "timestamp": "2024-06-23T17:22:46.529105",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L047",
+    "timestamp": "2024-06-23T17:30:50.421857",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L048",
+    "timestamp": "2024-06-23T17:37:28.263916",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L049",
+    "timestamp": "2024-06-23T17:39:19.200668",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L050",
+    "timestamp": "2024-06-23T17:40:54.739176",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L051",
+    "timestamp": "2024-06-23T17:46:26.589820",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L052",
+    "timestamp": "2024-06-23T17:47:47.201488",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L053",
+    "timestamp": "2024-06-23T17:47:56.626426",
+    "level": "ERROR",
+    "component": "asset_management",
+    "message": "Asset not found: ",
+    "user_id": null
+  },
+  {
+    "id": "L054",
+    "timestamp": "2024-06-23T17:50:08.310652",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L055",
+    "timestamp": "2024-06-23T17:50:17.615905",
+    "level": "ERROR",
+    "component": "asset_management",
+    "message": "Asset not found: ",
+    "user_id": null
+  },
+  {
+    "id": "L056",
+    "timestamp": "2024-06-23T17:54:53.558531",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L057",
+    "timestamp": "2024-06-23T17:55:03.936721",
+    "level": "ERROR",
+    "component": "asset_management",
+    "message": "Asset not found: ",
+    "user_id": null
+  },
+  {
+    "id": "L058",
+    "timestamp": "2024-06-23T17:59:08.002132",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L059",
+    "timestamp": "2024-06-23T18:06:13.189389",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L060",
+    "timestamp": "2024-06-23T18:48:26.053633",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L061",
+    "timestamp": "2024-06-23T18:51:52.475076",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L062",
+    "timestamp": "2024-06-23T18:55:20.551730",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: fd",
+    "user_id": null
+  },
+  {
+    "id": "L063",
+    "timestamp": "2024-06-23T18:55:25.884390",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: fd",
+    "user_id": null
+  },
+  {
+    "id": "L064",
+    "timestamp": "2024-06-23T18:55:34.614352",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: fd",
+    "user_id": null
+  },
+  {
+    "id": "L065",
+    "timestamp": "2024-06-23T18:56:13.320615",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L066",
+    "timestamp": "2024-06-23T18:58:43.431769",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L067",
+    "timestamp": "2024-06-23T19:03:56.142520",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L068",
+    "timestamp": "2024-06-23T19:17:13.340508",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: e",
+    "user_id": null
+  },
+  {
+    "id": "L069",
+    "timestamp": "2024-06-23T19:17:19.044203",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L070",
+    "timestamp": "2024-06-23T19:18:53.335915",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L071",
+    "timestamp": "2024-06-23T19:21:19.221158",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L072",
+    "timestamp": "2024-06-23T19:22:33.217634",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L073",
+    "timestamp": "2024-06-23T19:24:52.656436",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L074",
+    "timestamp": "2024-06-23T19:27:00.934211",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L075",
+    "timestamp": "2024-06-23T19:27:58.196781",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L076",
+    "timestamp": "2024-06-23T19:31:32.313508",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L077",
+    "timestamp": "2024-06-23T19:33:37.160369",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L078",
+    "timestamp": "2024-06-23T19:36:24.410758",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L079",
+    "timestamp": "2024-06-23T19:36:34.422602",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset request submitted for AS001 by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L080",
+    "timestamp": "2024-06-23T19:38:47.224676",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L081",
+    "timestamp": "2024-06-23T19:38:58.603637",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset request submitted for AS001 by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L082",
+    "timestamp": "2024-06-23T19:40:52.684260",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L083",
+    "timestamp": "2024-06-23T19:41:07.522668",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset request submitted for AS001 by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L084",
+    "timestamp": "2024-06-23T19:59:20.950298",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L085",
+    "timestamp": "2024-06-23T20:02:16.418544",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L086",
+    "timestamp": "2024-06-23T20:10:45.853700",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L087",
+    "timestamp": "2024-06-23T20:15:28.614606",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L088",
+    "timestamp": "2024-06-23T20:17:35.086008",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L089",
+    "timestamp": "2024-06-23T20:19:21.663103",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L090",
+    "timestamp": "2024-06-23T20:20:50.598374",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L091",
+    "timestamp": "2024-06-23T20:23:35.590530",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L092",
+    "timestamp": "2024-06-23T20:24:44.588346",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L093",
+    "timestamp": "2024-06-23T20:27:41.568982",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L094",
+    "timestamp": "2024-06-23T20:30:29.530963",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L095",
+    "timestamp": "2024-06-23T20:33:55.057025",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L096",
+    "timestamp": "2024-06-23T20:34:02.522233",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset AS001 released by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L097",
+    "timestamp": "2024-06-23T20:41:59.813269",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L098",
+    "timestamp": "2024-06-23T20:49:57.242780",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L099",
+    "timestamp": "2024-06-23T20:51:22.085830",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L100",
+    "timestamp": "2024-06-23T20:53:03.518943",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L101",
+    "timestamp": "2024-06-23T20:54:05.474342",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L102",
+    "timestamp": "2024-06-23T21:01:17.043016",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L103",
+    "timestamp": "2024-06-23T21:01:38.865702",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset request submitted for As001 by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L104",
+    "timestamp": "2024-06-23T21:02:08.577001",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset AS001 released by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L105",
+    "timestamp": "2024-06-23T21:07:03.210533",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L106",
+    "timestamp": "2024-06-23T21:13:35.543720",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L107",
+    "timestamp": "2024-06-23T21:13:40.361559",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Tagged assets viewed by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L108",
+    "timestamp": "2024-06-23T21:14:36.856862",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L109",
+    "timestamp": "2024-06-23T21:22:43.409352",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L110",
+    "timestamp": "2024-06-23T21:36:24.168759",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L111",
+    "timestamp": "2024-06-23T21:53:55.451440",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L112",
+    "timestamp": "2024-06-23T21:57:02.396274",
+    "level": "ERROR",
+    "component": "user_management",
+    "message": "Employee 20463188 not found for removal by admin A001",
+    "user_id": "A001"
+  },
+  {
+    "id": "L113",
+    "timestamp": "2024-06-23T22:15:01.634749",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L114",
+    "timestamp": "2024-06-23T22:25:12.275044",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L115",
+    "timestamp": "2024-06-23T22:26:40.289910",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L116",
+    "timestamp": "2024-06-23T22:30:45.459374",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L117",
+    "timestamp": "2024-06-23T22:33:23.199300",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L118",
+    "timestamp": "2024-06-23T22:37:09.179957",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L119",
+    "timestamp": "2024-06-23T22:42:26.116079",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L120",
+    "timestamp": "2024-06-23T22:43:16.339823",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset request submitted for as001 by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L121",
+    "timestamp": "2024-06-23T22:43:22.147163",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset AS001 released by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L122",
+    "timestamp": "2024-06-23T22:43:27.634201",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Tagged assets viewed by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L123",
+    "timestamp": "2024-06-23T22:43:57.994627",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L124",
+    "timestamp": "2024-06-23T22:52:02.771886",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L125",
+    "timestamp": "2024-06-23T22:54:55.130441",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L126",
+    "timestamp": "2024-06-23T22:59:11.655866",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L127",
+    "timestamp": "2024-06-23T23:01:54.415546",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L128",
+    "timestamp": "2024-06-23T23:12:02.396550",
+    "level": "ERROR",
+    "component": "user_management",
+    "message": "Invalid employee details provided by admin None",
+    "user_id": null
+  },
+  {
+    "id": "L129",
+    "timestamp": "2024-06-23T23:18:02.508315",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L130",
+    "timestamp": "2024-06-23T23:22:50.634140",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L131",
+    "timestamp": "2024-06-23T23:29:04.822383",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "L132",
+    "timestamp": "2024-06-24T00:08:59.799460",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L133",
+    "timestamp": "2024-06-24T00:09:04.743514",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Tagged assets viewed by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L134",
+    "timestamp": "2024-06-24T00:09:27.137082",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset request submitted for AS001 by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "L135",
+    "timestamp": "2024-06-24T00:09:37.972010",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset AS001 released by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "3fcb3613-9b93-41d3-937f-27ff142aee44",
+    "timestamp": "2024-06-24T15:27:07.322887",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "6df3cdb5-1bfc-4dcd-b3dd-6bbad13972c3",
+    "timestamp": "2024-06-24T15:27:28.662047",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset request submitted for AS001 by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "f0ce41c5-5baf-4511-91a4-8685d6fed12c",
+    "timestamp": "2024-06-24T15:27:43.782937",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Asset AS001 released by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "b1028143-8e5b-487e-b8ca-ada92021890e",
+    "timestamp": "2024-06-24T15:27:47.407810",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Tagged assets viewed by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "25041281-2c43-4dd3-b131-89f86db75424",
+    "timestamp": "2024-06-24T15:27:48.755105",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Tagged assets viewed by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "f7cbce40-7caf-458f-9965-f6f7cbc6f681",
+    "timestamp": "2024-06-24T15:27:49.504366",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Tagged assets viewed by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "c3b32661-093e-4177-90d9-2a94c373d5f1",
+    "timestamp": "2024-06-24T15:27:50.538317",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Tagged assets viewed by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "322f596b-1774-4e1a-ba41-4bc5cf8ea19e",
+    "timestamp": "2024-06-24T15:27:51.306772",
+    "level": "INFO",
+    "component": "asset_management",
+    "message": "Tagged assets viewed by E001",
+    "user_id": "E001"
+  },
+  {
+    "id": "6ef692e0-2645-42e6-9bce-2f858c63639d",
+    "timestamp": "2024-06-24T15:50:27.598016",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "38efbc00-58f1-4edd-b5db-90fc09a8f583",
+    "timestamp": "2024-06-24T15:56:06.642470",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "57f90996-fb6a-4f8f-b4ec-0ecf6f29356f",
+    "timestamp": "2024-06-24T15:57:02.811952",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "a35c396b-2563-4e12-a2bc-87ae52233cb9",
+    "timestamp": "2024-06-24T15:58:54.843204",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "5cffc994-78bc-47b8-bb7b-4f1fd96aed9d",
+    "timestamp": "2024-06-24T16:00:26.919717",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "4bff69bf-f268-4e9a-a517-fe294834513b",
+    "timestamp": "2024-06-24T16:03:06.008387",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "9a718e82-a548-47fe-a7ca-206a20226c37",
+    "timestamp": "2024-06-24T16:16:21.353491",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "eab0ad58-8d54-48da-b3a7-e82306922ee5",
+    "timestamp": "2024-06-24T16:44:10.999528",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "8f3cde42-1eed-40a1-8438-9d22abb7d6e6",
+    "timestamp": "2024-06-24T16:44:19.723938",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "45fcaa9f-d55c-46f7-a7b8-c0ac16a7a2e8",
+    "timestamp": "2024-06-24T16:59:13.158781",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "6836ef22-57b9-4a50-a800-2cfa8a446707",
+    "timestamp": "2024-06-24T17:27:51.952926",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "f1c732f5-0c08-41d6-9944-9edb42a8bb32",
+    "timestamp": "2024-06-24T17:30:20.102574",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "251f41af-f7f2-4555-b3a0-5a95ae21f7ca",
+    "timestamp": "2024-06-24T17:31:15.865488",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "7f8f77de-fa84-4e50-b458-547fd347c618",
+    "timestamp": "2024-06-24T17:34:20.780574",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "8853a3d9-6590-4f45-9dc3-596b42ed742a",
+    "timestamp": "2024-06-24T17:40:22.032468",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "e1c79eb8-a0ad-43fa-a23c-6627dc7e8c00",
+    "timestamp": "2024-06-24T17:45:47.332895",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "dbea2304-b9bb-471a-ade2-140d401a2116",
+    "timestamp": "2024-06-24T17:47:47.213649",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "0e678625-86ef-414f-b202-75ac92877b20",
+    "timestamp": "2024-06-24T17:49:53.028111",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "32fcf5d8-3886-4075-a60f-65e9bc7082e4",
+    "timestamp": "2024-06-24T17:52:16.303843",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "40678d1a-b738-4043-b28f-2a6ccc21f7d2",
+    "timestamp": "2024-06-24T17:53:46.112386",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "ce602f30-208a-4641-9445-2f160dc696e0",
+    "timestamp": "2024-06-24T17:57:27.743487",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "143686a0-49d0-4662-baf8-21efe2a7e0e2",
+    "timestamp": "2024-06-24T18:23:09.295764",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "9ba2354f-dfa3-4719-a3e2-c77b94038f7d",
+    "timestamp": "2024-06-24T18:24:20.763625",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "496444db-379c-437d-8468-bece26fe92ec",
+    "timestamp": "2024-06-24T18:34:21.944264",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "9aa7fd7b-536b-4484-bd15-332bea5161bc",
+    "timestamp": "2024-06-24T18:35:57.940102",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "d811f94f-16d5-4b15-9d11-e129ce38b76b",
+    "timestamp": "2024-06-24T18:38:02.343544",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "38b30a34-b359-4051-9d42-5ad24142a419",
+    "timestamp": "2024-06-24T18:42:07.222615",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "1550fe89-54ee-4408-90a2-6e63940afa07",
+    "timestamp": "2024-06-24T18:43:24.149129",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "62b9907b-f841-4893-b3cb-133369e02907",
+    "timestamp": "2024-06-24T18:45:59.096976",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "543380ee-c1e3-48c6-a685-124e72afbfcd",
+    "timestamp": "2024-06-24T18:47:05.816212",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "ea18e31d-dd49-47c2-a652-e220bf7c9096",
+    "timestamp": "2024-06-24T18:48:46.043499",
+    "level": "WARNING",
+    "component": "authentication",
+    "message": "Failed login attempt for username: a",
+    "user_id": null
+  },
+  {
+    "id": "952170f6-b230-4eb5-9fe0-2e5cbc9d8b9b",
+    "timestamp": "2024-06-24T18:48:50.703782",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "2915142c-e033-4e33-842e-878ec1319972",
+    "timestamp": "2024-06-24T18:50:37.046511",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "3da37d60-65b9-46c0-99af-cf2b1111c1b0",
+    "timestamp": "2024-06-24T19:07:01.037201",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "d7a58ba1-ac1e-474f-a877-da9a9ad2c46a",
+    "timestamp": "2024-06-24T19:08:39.551133",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "51bcdd03-6426-4e53-9da9-f51dd5d16805",
+    "timestamp": "2024-06-24T19:21:58.180506",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "a707af8f-3c46-4f02-8b76-611ae02f4848",
+    "timestamp": "2024-06-24T19:23:51.032262",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "40ab2cf3-3d65-48d7-8528-6f7b61f1d3f9",
+    "timestamp": "2024-06-24T19:25:23.613366",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "ba186c46-4658-4531-805d-db5d82177d47",
+    "timestamp": "2024-06-24T19:26:46.345151",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "45a23c1e-aa55-415c-bdbf-225e37f04533",
+    "timestamp": "2024-06-24T19:30:37.019128",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "1f88b163-8b6f-44a8-a0bb-e79f83ab34c8",
+    "timestamp": "2024-06-24T19:42:38.437270",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "7aff6f21-d398-4c94-ba67-0e8bf0a25ac2",
+    "timestamp": "2024-06-24T19:44:46.701086",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "6cbaaae2-22f9-40ee-8bf1-5fe514e0c94d",
+    "timestamp": "2024-06-24T19:46:17.485698",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "98268ea5-644a-4e87-85db-9acf26c7eed8",
+    "timestamp": "2024-06-24T19:48:00.042398",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "d59c0ba1-8f1a-4203-a583-a3d4caecb15e",
+    "timestamp": "2024-06-24T19:54:18.131002",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  },
+  {
+    "id": "d6d4a065-4154-4728-89e9-c10b1fbd9a70",
+    "timestamp": "2024-06-24T19:55:04.464276",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User A001 logged in",
+    "user_id": "A001"
+  }
+]
